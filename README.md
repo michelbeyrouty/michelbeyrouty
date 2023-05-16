@@ -44,7 +44,7 @@ A highly motivated and results-driven full stack engineer with 4+ years of exper
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michelbeyrouty&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michelbeyrouty&theme=dark-smoky&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
   
 
