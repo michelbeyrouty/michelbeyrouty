@@ -30,7 +30,8 @@
 
 ---
 
-### 👨‍💻: About Me : A highly motivated and results-driven full stack engineer with 4+ years of experience delivering innovative and scalable solutions. Driven by a passion for excellence and a love of learning, constantly seeking new challenges and opportunities to grow and improve.
+### 👨‍💻 About Me: 
+A highly motivated and results-driven full stack engineer with 4+ years of experience delivering innovative and scalable solutions. Driven by a passion for excellence and a love of learning, constantly seeking new challenges and opportunities to grow and improve.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
