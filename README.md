@@ -46,6 +46,9 @@ A highly motivated and results-driven full stack engineer with 4+ years of exper
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michelbeyrouty&theme=dark-smoky&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelbeyrouty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
 
 <!--
