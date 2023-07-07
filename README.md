@@ -10,13 +10,13 @@
 ---
 
 ### 👨‍💻 About Me: 
-A highly motivated and results-driven full stack engineer with 4+ years of experience delivering innovative and scalable solutions. Driven by a passion for excellence and a love of learning, constantly seeking new challenges and opportunities to grow and improve.
+A highly motivated and results-driven full-stack engineer with 5+ years of experience delivering innovative and scalable solutions. Driven by a passion for excellence and a love of learning, constantly seeking new challenges and opportunities to grow and improve.
 
-- :telescope: I’m working fueling ecommerce brands.
+- :telescope: My personal [website](michelbeyrouty.com].
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I like to solve problems on Hackerank, read tech articles, take online courses and play chess.
+- :zap: In my free time, I like to solve coding challenges, read tech articles, take online courses, and play chess.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-michelbeyrouty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelbeyrouty)
 
