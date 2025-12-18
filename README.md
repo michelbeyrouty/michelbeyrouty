@@ -40,6 +40,13 @@ Full-stack engineer with **7+ years of experience** delivering **scalable, innov
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40"/>
 </div>
 
+
+### Also Experienced With
+- TypeScript, REST APIs, Microservices  
+- Azure, CI/CD pipelines, Infrastructure as Code  
+- Event-driven systems, Message queues  
+- Testing, Clean Architecture, System Design  
+
 ## 🚀 What I’m Focused On
 - Designing scalable backend architectures  
 - Improving cloud infrastructure & DevOps workflows  
