@@ -18,8 +18,7 @@ Full-stack engineer with **7+ years of experience** delivering **scalable, innov
 - ♟️ In my free time: coding challenges, tech articles, online courses, and chess  
 - 🌍 Personal website: **[michelbeyrouty.com](https://michelbeyrouty.com)**
 
-📫 **Let’s connect:**  
-[![LinkedIn Badge](https://img.shields.io/badge/-Michel%20Beyrouty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelbeyrouty)
+📫 **Let’s connect:**  [![LinkedIn Badge](https://img.shields.io/badge/-Michel%20Beyrouty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelbeyrouty)
 
 ## 🛠️ Tools & Technologies  
 
