@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michel El Beyrouty
+# 👋 Hi, I'm Michel Beyrouty
 
 **Staff Software Engineer** based in Toronto, building full-stack applications and cloud-native systems.
 
@@ -10,15 +10,3 @@ I have **8+ years of experience** across manufacturing, e-commerce, and on-deman
 - 🌍 [Personal website](https://michelbeyrouty.com)
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/michelbeyrouty)
-
-## 🛠️ Tools & Technologies
-
-**Languages:** Python, JavaScript, TypeScript, SQL, Bash  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, FastAPI, Serverless  
-**Cloud & DevOps:** AWS, Azure, Kubernetes, Docker, Terraform, CI/CD  
-**Data & Monitoring:** PostgreSQL, Redis, MongoDB, DynamoDB, Datadog, PagerDuty
-
----
-
-⭐️ *Thanks for visiting — let's build something great together!*
